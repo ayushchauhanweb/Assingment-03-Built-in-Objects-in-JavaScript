@@ -122,8 +122,8 @@
 
 // Ques 20 Simple Date Difference
 
-let date1 = new Date("2026/01/1");
-let date2 = new Date("2026/01/2");
-let difference = date2.getTime()- date1.getTime()
+// let date1 = new Date("2026/01/1");
+// let date2 = new Date("2026/01/2");
+// let difference = date2.getTime() - date1.getTime()
 
-console.log(difference);
+// console.log(difference);
